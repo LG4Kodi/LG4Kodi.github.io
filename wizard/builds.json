@@ -1,0 +1,20 @@
+{
+	"builds": [
+		{
+			"name": "Le'Collection",
+			"version": "1.0",
+			"url": "https://www.dropbox.com/s/n5f26cw38167zi0/Le%27Collection.zip?dl=1",
+			"icon": "https://raw.githubusercontent.com/LG4Kodi/LG4Kodi.github.io/main/wizard/Le'Collection_img.png",
+			"fanart": "https://raw.githubusercontent.com/LG4Kodi/LG4Kodi.github.io/main/Backgrounds/single/fanart.jpg",
+			"description": "Le'Collection is a private streaming service, NOW WITH LIVE TV AND SPORTS, which means no limitations. We add TV shows and movies from any studio. And you can request more if you contact me on Instagram @ig_lg4. So what are you waiting for? Download the service and dive in!"
+		},
+		{
+			"name": "Le'Collection Mobile",
+			"version": "1.0",
+			"url": "https://www.dropbox.com/s/lpoz411nlh7e7k7/Le%27Collection2.zip?dl=1",
+			"icon": "https://raw.githubusercontent.com/LG4Kodi/LG4Kodi.github.io/main/wizard/Le'Collection-Mobile_img.png",
+			"fanart": "https://raw.githubusercontent.com/LG4Kodi/LG4Kodi.github.io/main/Backgrounds/single/Le'Collection-Fanart.jpg",
+			"description": "NOW you can take your favorite movies and TV shows on the go!"
+		}
+	]
+}
