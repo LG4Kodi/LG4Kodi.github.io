@@ -2,7 +2,7 @@ id="plugin.program.xtra"
 version="1.0"
 zip="https://lg4kodi.github.io/wizard/plugin.program.xtra.zip"
 
-name="Xtra"
+name="Xtra (Windows)"
 version="1.0"
 url="https://www.dropbox.com/s/areqv7tq3s000k5/Xtra.zip?dl=1"
 minor="http://"
